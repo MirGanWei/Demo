@@ -28,7 +28,7 @@ int main(void)
 
   printf("1111111111111111\r\n");
 
-  printf("develop B is testr\n");
+  printf("develop B 123456789\n");
 	
 	Update_System_Code();
 	
