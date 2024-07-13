@@ -24,7 +24,9 @@ int main(void)
 	
   MX_USART1_UART_Init();
 
-	printf("system core clock:%dHz\r\n", SystemCoreClock); //打印当前系统频率
+	printf("system core clock:%dHz\r\n", SystemCoreClock); //锟斤拷印锟斤拷前系统频锟斤拷
+
+  printf("1111111111111111\r\n");
 	
 	Update_System_Code();
 	
