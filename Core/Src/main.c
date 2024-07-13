@@ -30,7 +30,7 @@ int main(void)
 
   printf("develop B 123456789\n");
 
-  printf("develop A\r\n");
+  printf("develop A 123\r\n");
 	
 	Update_System_Code();
 	
