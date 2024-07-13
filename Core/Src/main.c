@@ -27,6 +27,8 @@ int main(void)
 	printf("system core clock:%dHz\r\n", SystemCoreClock); //��ӡ��ǰϵͳƵ��
 
   printf("1111111111111111\r\n");
+
+  printf("develop B is testr\n");
 	
 	Update_System_Code();
 	
